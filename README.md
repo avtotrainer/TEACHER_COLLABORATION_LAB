@@ -64,6 +64,7 @@ We value respectful communication, practical learning, accessibility, constructi
 ## Documentation
 
 - [Project Charter](PROJECT-CHARTER.md) — mission, scope, membership model and roadmap.
+- [Project Rules](PROJECT-RULES.md) — governance, privacy safeguards, documentation and community standards.
 
 Further project rules, learning materials and community guidance will be published as they are approved.
 
@@ -73,7 +74,7 @@ Further project rules, learning materials and community guidance will be publish
 - [x] Public GitHub repository established
 - [x] Project Charter published
 - [x] README published
-- [ ] Project governance and community rules
+- [x] Initial project governance rules published (participant-facing policies still pending)
 - [ ] Google Drive workspace
 - [ ] Slack workspace
 - [ ] Application and onboarding process
