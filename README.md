@@ -31,7 +31,7 @@ The initial pilot is planned as a **four-week practical program** for approximat
 | 3 | Resource sharing and collaborative activities |
 | 4 | Practice, feedback and evaluation |
 
-**Status:** Planned — recruitment has not started, and the Slack workspace is not yet operational.
+**Status:** Slack workspace setup is in progress. Participant recruitment has not started.
 
 The pilot is intended to demonstrate better organization of professional communication, **not** to require schools to replace Messenger.
 
@@ -54,6 +54,7 @@ The planned joining process is:
 2. Wait for the application review.
 3. Receive an invitation if approved.
 4. Complete community onboarding.
+5. Read and acknowledge the Community Guidelines.
 
 **Applications are not open yet.** A registration link will be added once the process and privacy notice are ready.
 
@@ -61,12 +62,16 @@ The planned joining process is:
 
 We value respectful communication, practical learning, accessibility, constructive feedback and protection of personal information. Participant applications, private messages, student records and confidential school information must not be posted in this public repository.
 
+Participant-facing conduct expectations are defined in the [Community Guidelines](COMMUNITY-GUIDELINES.md). Internal moderation principles, severity levels, escalation and incident-handling workflow are defined in the [Moderation Policy](MODERATION-POLICY.md).
+
 ## Documentation
 
 - [Project Charter](PROJECT-CHARTER.md) — mission, scope, membership model and roadmap.
-- [Project Rules](PROJECT-RULES.md) — governance, privacy safeguards, documentation and community standards.
+- [Project Rules](PROJECT-RULES.md) — governance, privacy safeguards, documentation and project-level community standards.
+- [Community Guidelines](COMMUNITY-GUIDELINES.md) — Georgian participant-facing rules for professional conduct in the community.
+- [Moderation Policy](MODERATION-POLICY.md) — balanced moderation model, roles, severity levels and escalation workflow.
 
-Further project rules, learning materials and community guidance will be published as they are approved.
+Further learning materials and operational guidance will be published as they are approved.
 
 ## Project status
 
@@ -74,9 +79,13 @@ Further project rules, learning materials and community guidance will be publish
 - [x] Public GitHub repository established
 - [x] Project Charter published
 - [x] README published
-- [x] Initial project governance rules published (participant-facing policies still pending)
+- [x] Initial project governance rules published
+- [x] Community Guidelines drafted and documented
+- [x] Balanced Moderation Policy drafted and documented
+- [ ] Moderation roles assigned and workflow tested
+- [ ] Restricted moderation log created
 - [ ] Google Drive workspace
-- [ ] Slack workspace
+- [ ] Slack workspace setup completed for participant onboarding
 - [ ] Application and onboarding process
 - [ ] Four-week curriculum and teaching materials
 - [ ] Pilot delivery and evaluation
