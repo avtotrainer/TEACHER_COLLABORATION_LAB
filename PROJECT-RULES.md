@@ -1,7 +1,7 @@
 # Teacher Collaboration Lab — Project Rules
 
-**Version:** 1.1  
-**Status:** Initial governance rules; operational policies drafted and pending implementation verification  
+**Version:** 1.2  
+**Status:** Internal operating baseline established; participant launch remains gated  
 **Scope:** Project coordination, public documentation, educational content, community operations
 
 ## 1. Purpose and authority
@@ -38,9 +38,10 @@ Use the statuses **Planned**, **In progress**, **Verified**, **Blocked**, and **
 | Participant-facing community rules | GitHub: COMMUNITY-GUIDELINES.md |
 | Moderation model and escalation workflow | GitHub: MODERATION-POLICY.md |
 | Public technical guidance and templates | GitHub |
-| Teacher-facing learning files | Google Drive, once configured |
-| Private applications, contact details, moderation records and administrative records | Restricted Google Drive, once configured |
-| Discussions, activities and feedback | Slack, once configured |
+| Internal operating procedure | Restricted Google Drive: 01_PROJECT_MANAGEMENT |
+| Teacher-facing learning files | Google Drive |
+| Private applications, participant administration, moderation records, access reviews and decision records | Restricted Google Drive: 08_PRIVATE_ADMINISTRATION |
+| Discussions, activities and feedback | Slack, once participant operations begin |
 | Planning and drafting | ChatGPT Project |
 
 Do not assume connected systems synchronize automatically. Link to authoritative copies rather than maintaining conflicting duplicates.
@@ -95,12 +96,14 @@ Core standards include:
 
 Teacher Collaboration Lab uses a **balanced moderation model**. The authoritative moderation workflow is defined in the [Moderation Policy](MODERATION-POLICY.md).
 
+Internal operating procedures are maintained in the restricted Internal Operations Manual. Live administrative records are maintained in the restricted Private Administration Register, including participant status, moderation incidents, access reviews, decision records, workflow tests and readiness tracking.
+
 Before inviting participants:
 
 - designate at least one workspace administrator and a moderation backup;
-- define responsibilities for invitations, channel management, incident handling, data access and participant removal;
-- create a restricted moderation log outside the public GitHub repository;
-- test the escalation workflow using sample scenarios;
+- verify responsibilities for invitations, channel management, incident handling, data access and participant removal;
+- verify restricted administration access;
+- ensure moderation test scenarios remain valid after any policy change;
 - verify that administrators understand the sequence **Protect → Clarify → Correct → Document → Escalate**.
 
 Moderation should be proportionate and consistent. Minor first-time mistakes should normally be handled through guidance and correction; serious privacy, security, safety or harassment incidents may require immediate escalation without prior warning.
@@ -128,6 +131,8 @@ Evaluate not just tool usage but whether communication and collaboration become 
 
 ## 12. Approval gates
 
+The project may operate internally once the internal operating baseline is verified. This does **not** authorize participant recruitment or invitations.
+
 Explicit project-owner approval is required before:
 - Publishing or expanding access to private material.
 - Opening registration or sending participant invitations.
@@ -142,9 +147,9 @@ Routine edits to approved public documentation may proceed within the agreed pro
 
 Review these rules after the initial pilot and whenever project scope, platform capabilities, or privacy requirements change. Record substantive changes in version history or commit messages.
 
-The Community Guidelines and Moderation Policy should also be reviewed after the first pilot, after serious moderation incidents, and before substantial community expansion.
+The Community Guidelines, Moderation Policy and Internal Operations Manual should also be reviewed after the first pilot, after serious moderation/privacy/security incidents, and before substantial community expansion.
 
-## 14. Setup checklist
+## 14. Setup and operating checklist
 
 - [x] ChatGPT Project created and instructions saved (user-confirmed)
 - [x] Public GitHub repository verified
@@ -152,11 +157,15 @@ The Community Guidelines and Moderation Policy should also be reviewed after the
 - [x] Project Rules drafted and published
 - [x] Participant-facing Community Guidelines drafted and published
 - [x] Balanced Moderation Policy drafted and published
-- [ ] Moderation roles assigned and escalation workflow tested
-- [ ] Restricted moderation log created
-- [ ] Private Google Drive workspace configured
+- [x] Internal Operations Manual created in restricted Google Drive
+- [x] Private Administration Register created
+- [x] Moderation workflow test scenarios documented and passed conceptually
+- [x] 08_PRIVATE_ADMINISTRATION verified as non-public
+- [x] Internal working-mode documentation baseline established
+- [ ] Named moderation roles assigned for participant launch
 - [ ] Slack workspace setup completed for participant onboarding
-- [ ] Privacy notice and application review criteria approved
+- [ ] Privacy notice and final application review package approved
 - [ ] Registration form and onboarding tested
 - [ ] Four-week learning materials prepared
+- [ ] Pilot recruitment and invitations explicitly approved
 - [ ] Pilot delivered and evaluated
