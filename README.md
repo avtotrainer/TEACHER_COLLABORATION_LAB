@@ -31,7 +31,7 @@ The initial pilot is planned as a **four-week practical program** for approximat
 | 3 | Resource sharing and collaborative activities |
 | 4 | Practice, feedback and evaluation |
 
-**Status:** Slack workspace setup is in progress. Participant recruitment has not started.
+**Status:** Internal operating baseline is established. Slack launch preparation and participant recruitment are still pending.
 
 The pilot is intended to demonstrate better organization of professional communication, **not** to require schools to replace Messenger.
 
@@ -64,6 +64,8 @@ We value respectful communication, practical learning, accessibility, constructi
 
 Participant-facing conduct expectations are defined in the [Community Guidelines](COMMUNITY-GUIDELINES.md). Internal moderation principles, severity levels, escalation and incident-handling workflow are defined in the [Moderation Policy](MODERATION-POLICY.md).
 
+Private operational documentation and live administrative records are maintained in restricted Google Drive locations and are intentionally not linked from this public repository.
+
 ## Documentation
 
 - [Project Charter](PROJECT-CHARTER.md) — mission, scope, membership model and roadmap.
@@ -71,7 +73,7 @@ Participant-facing conduct expectations are defined in the [Community Guidelines
 - [Community Guidelines](COMMUNITY-GUIDELINES.md) — Georgian participant-facing rules for professional conduct in the community.
 - [Moderation Policy](MODERATION-POLICY.md) — balanced moderation model, roles, severity levels and escalation workflow.
 
-Further learning materials and operational guidance will be published as they are approved.
+Further learning materials and participant-facing operational guidance will be published as they are approved.
 
 ## Project status
 
@@ -82,12 +84,15 @@ Further learning materials and operational guidance will be published as they ar
 - [x] Initial project governance rules published
 - [x] Community Guidelines drafted and documented
 - [x] Balanced Moderation Policy drafted and documented
-- [ ] Moderation roles assigned and workflow tested
-- [ ] Restricted moderation log created
-- [ ] Google Drive workspace
+- [x] Internal Operations Manual created in restricted Google Drive
+- [x] Private Administration Register created
+- [x] Moderation workflow test scenarios documented and passed conceptually
+- [x] Private administration folder access verified as non-public
+- [ ] Named moderation roles assigned for participant launch
 - [ ] Slack workspace setup completed for participant onboarding
-- [ ] Application and onboarding process
-- [ ] Four-week curriculum and teaching materials
+- [ ] Privacy notice and final application workflow approved
+- [ ] Four-week curriculum and teaching materials completed
+- [ ] Pilot recruitment and launch explicitly approved
 - [ ] Pilot delivery and evaluation
 
 ## License
